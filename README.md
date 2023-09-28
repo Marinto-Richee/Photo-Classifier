@@ -8,7 +8,7 @@ This script demonstrates how to build, train, and save a Convolutional Neural Ne
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/Marinto-Richee/Photo-Classifier.git)
    ```
 
 2. Install the necessary dependencies:
