@@ -34,16 +34,16 @@ This script demonstrates how to build, train, and save a Convolutional Neural Ne
 ## Directory Structure
 
 ```
-|-- ID Card Program
-|   |-- organized_photos - Copy
-|       |-- not_accepted
-|           |-- image1.jpg
-|           |-- image2.jpg
-|           ...
-|       |-- accepted
-|           |-- image1.jpg
-|           |-- image2.jpg
-|           ...
+
+|-- images
+|   |-- not_accepted
+|       |-- image1.jpg
+|       |-- image2.jpg
+|       ...
+|   |-- accepted
+|       |-- image1.jpg
+|       |-- image2.jpg
+|       ...
 |-- script.py
 |-- Photo_classifier_tf_V1.h5
 |-- README.md
