@@ -17,7 +17,7 @@ This script demonstrates how to build, train, and save a Convolutional Neural Ne
    pip install tensorflow
    ```
 
-3. Download the dataset and organize it in the specified directory `ID Card Program/organized_photos - Copy`.
+3. Download the dataset and organize it in the specified directory `images`.
 
 4. Modify the `data_dir` variable in the script to point to the dataset directory.
 
